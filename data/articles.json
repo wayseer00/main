@@ -1,0 +1,12 @@
+[
+  {
+    "article_id": "I",
+    "name": "Competence",
+    "description": "Authority derives from demonstrated competence.",
+    "applies_to": ["individual", "institution", "ai"],
+    "failure_modes": ["credentialism", "coercion", "performative authority"],
+    "metrics_hint": ["capability", "outcome consistency", "error correction"],
+    "notes": "Seed stub; refine to match canon."
+  }
+]
+
